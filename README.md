@@ -1,40 +1,87 @@
-# 🪷 ISE Ayurveda App
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/lotus.png" height="80"/>
+</p>
 
-An all-in-one Android application designed for ISE Ayurveda — enabling users to explore traditional wellness, book consultations, access medicinal databases, and more.
+<h1 align="center">🪷 ISE Ayurveda App</h1>
+<p align="center">
+  An intuitive and holistic Android application blending modern usability with ancient Ayurvedic wisdom.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green.svg"/>
+  <img src="https://img.shields.io/github/license/rishigupta2004/ISE-Ayurveda-App"/>
+  <img src="https://img.shields.io/github/languages/top/rishigupta2004/ISE-Ayurveda-App"/>
+  <img src="https://img.shields.io/github/last-commit/rishigupta2004/ISE-Ayurveda-App"/>
+</p>
 
 ---
 
-## 📱 Features
+## 🧩 Overview
 
-- 🔍 Explore Ayurvedic treatments and herbal remedies  
-- 📆 Book consultations with Ayurvedic practitioners  
-- 📚 Read curated articles and traditional health guides  
-- 🔔 Receive health reminders & daily wellness tips  
-- 🌙 Dark mode and clean UI for better user experience
+The **ISE Ayurveda App** is a powerful mobile solution aimed at delivering the **essence of traditional Indian Ayurvedic practices** in a digitally accessible form. Designed with a clean UI and educational content, it enables users to:
+
+- Explore Ayurvedic herbs & remedies
+- Book practitioner consultations
+- Access curated wellness tips
+- View treatment protocols
+- Get daily notifications
+
+---
+
+## ✨ Key Features
+
+| Feature                  | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| 🌿 **Herbal Explorer**   | Discover herbal properties, use-cases, and scientific support              |
+| 🩺 **Book Appointments**  | Schedule consultations with licensed Ayurvedic practitioners               |
+| 📰 **Articles & Learning**| Access a curated set of Ayurvedic health articles                          |
+| 💬 **Chatbot Assistant**  | (Optional) Ask health questions and get herb-based suggestions             |
+| 🔔 **Reminders & Tips**   | Daily health quotes and water/meditation reminders                         |
+| 🌓 **Dark Mode**          | Auto-switch UI for user comfort                                             |
+
+---
+
+## 📱 App Preview
+
+> _You can replace the below placeholders with your actual app screenshots_
+
+<p align="center">
+  <img src="screenshots/home_screen.png" alt="Home Screen" width="30%"/>
+  <img src="screenshots/herb_detail.png" alt="Herb Detail" width="30%"/>
+  <img src="screenshots/booking.png" alt="Booking" width="30%"/>
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Kotlin** & **Android SDK**
-- **XML-based Layouts** (or Jetpack Compose if used)
-- **Room / Firebase** (data storage if integrated)
-- **Git + GitHub** for version control
+| Layer             | Technology                  |
+|------------------|-----------------------------|
+| Frontend (UI)    | Android XML / Jetpack Views |
+| Backend (Data)   | Firebase / Room DB (optional)|
+| Language         | Kotlin                      |
+| Version Control  | Git & GitHub                |
+| IDE              | Android Studio              |
+| Others           | Glide, Retrofit (optional)  |
 
 ---
 
-## 📸 Screenshots
+## 📁 Project Structure
 
-> _Add screenshots here (drag/drop in GitHub or use `![image](url)`):_
-
-| Home Screen | Herbal Info | Booking Flow |
-|-------------|-------------|--------------|
-| ![home](screenshots/home.png) | ![herbs](screenshots/herbs.png) | ![booking](screenshots/booking.png) |
-
----
-
-## 🛠️ Setup Instructions
-
-1. **Clone the repository:**
 ```bash
-git clone https://github.com/rishigupta2004/ISE-Ayurveda-App.git
+ISE-Ayurveda-App/
+├── android/
+│   └── app/
+│       └── src/
+│           ├── main/
+│           │   ├── java/com/ise/ayurveda_app/
+│           │   │   └── MainActivity.kt
+│           │   ├── res/
+│           │   │   ├── layout/
+│           │   │   ├── drawable/
+│           │   │   └── values/
+│           │   └── AndroidManifest.xml
+├── metadata/
+├── .gitignore
+├── README.md
+└── LICENSE
