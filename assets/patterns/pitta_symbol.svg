@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Pitta Dosha Symbol - Fire Element -->
+  <circle cx="50" cy="50" r="40" stroke="#FF5722" stroke-width="1" fill="none" opacity="0.5"/>
+  <!-- Flame pattern representing fire element -->
+  <path d="M40,80 Q45,60 50,70 Q55,50 60,70 Q65,60 70,80" stroke="#FF5722" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <path d="M30,80 Q40,50 50,65 Q60,40 70,65 Q80,50 90,80" stroke="#FF5722" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <path d="M35,80 Q45,55 50,68 Q55,45 60,68 Q65,55 75,80" stroke="#FF5722" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <!-- Sun/center of energy -->
+  <circle cx="50" cy="40" r="10" stroke="#FF5722" stroke-width="1" fill="none" opacity="0.7"/>
+  <circle cx="50" cy="40" r="5" stroke="#FF5722" stroke-width="1" fill="none" opacity="0.8"/>
+  <!-- Radiating heat lines -->
+  <path d="M50,25 L50,15" stroke="#FF5722" stroke-width="1" opacity="0.6"/>
+  <path d="M65,30 L75,20" stroke="#FF5722" stroke-width="1" opacity="0.6"/>
+  <path d="M35,30 L25,20" stroke="#FF5722" stroke-width="1" opacity="0.6"/>
+</svg>

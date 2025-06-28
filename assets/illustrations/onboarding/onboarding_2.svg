@@ -1,0 +1,57 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <circle cx="200" cy="200" r="150" fill="#F9F5F0" opacity="0.5"/>
+  
+  <!-- Decorative elements -->
+  <path d="M80,120 Q140,80 200,120 T320,120" stroke="#8E7F61" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M80,280 Q140,320 200,280 T320,280" stroke="#8E7F61" stroke-width="2" fill="none" opacity="0.6"/>
+  
+  <!-- Three Dosha Symbols -->
+  <!-- Vata (Air/Space) - Blue Circle -->
+  <g transform="translate(120, 180)">
+    <circle cx="0" cy="0" r="50" fill="#85A1C1" opacity="0.8"/>
+    <text x="0" y="5" font-family="Arial" font-size="14" text-anchor="middle" fill="#FFFFFF">Vata</text>
+    <!-- Air symbol -->
+    <path d="M-20,-15 Q0,-30 20,-15 Q0,0 -20,-15Z" fill="#FFFFFF" opacity="0.6"/>
+    <path d="M-15,0 Q0,-15 15,0 Q0,15 -15,0Z" fill="#FFFFFF" opacity="0.6"/>
+  </g>
+  
+  <!-- Pitta (Fire) - Orange Triangle -->
+  <g transform="translate(200, 180)">
+    <path d="M0,-50 L43.3,25 L-43.3,25 Z" fill="#E8A87C" opacity="0.8"/>
+    <text x="0" y="5" font-family="Arial" font-size="14" text-anchor="middle" fill="#FFFFFF">Pitta</text>
+    <!-- Fire symbol -->
+    <path d="M0,-20 Q10,-5 0,10 Q-10,-5 0,-20Z" fill="#FFFFFF" opacity="0.6"/>
+    <path d="M-10,-10 Q0,5 10,-10 Q5,0 -10,-10Z" fill="#FFFFFF" opacity="0.6"/>
+  </g>
+  
+  <!-- Kapha (Earth/Water) - Green Square -->
+  <g transform="translate(280, 180)">
+    <rect x="-35" y="-35" width="70" height="70" fill="#8E7F61" opacity="0.8"/>
+    <text x="0" y="5" font-family="Arial" font-size="14" text-anchor="middle" fill="#FFFFFF">Kapha</text>
+    <!-- Earth/Water symbol -->
+    <path d="M-20,10 L20,10 L20,20 L-20,20 Z" fill="#FFFFFF" opacity="0.6"/>
+    <path d="M-15,-10 L15,-10 L15,0 L-15,0 Z" fill="#FFFFFF" opacity="0.6"/>
+  </g>
+  
+  <!-- Central human silhouette -->
+  <g transform="translate(200, 180)">
+    <!-- Head -->
+    <circle cx="0" cy="-90" r="20" fill="#5D5F71" opacity="0.7"/>
+    <!-- Body -->
+    <path d="M0,-70 L0,-20 M-30,30 L0,-20 L30,30 M-20,-20 L20,-20" stroke="#5D5F71" stroke-width="3" opacity="0.7"/>
+  </g>
+  
+  <!-- Connecting lines between doshas and human -->
+  <path d="M120,180 Q160,120 200,90" stroke="#85A1C1" stroke-width="2" stroke-dasharray="4" opacity="0.6"/>
+  <path d="M200,180 L200,90" stroke="#E8A87C" stroke-width="2" stroke-dasharray="4" opacity="0.6"/>
+  <path d="M280,180 Q240,120 200,90" stroke="#8E7F61" stroke-width="2" stroke-dasharray="4" opacity="0.6"/>
+  
+  <!-- Decorative mandala pattern -->
+  <g transform="translate(200, 320) scale(0.3)">
+    <circle cx="0" cy="0" r="60" stroke="#5D5F71" stroke-width="2" fill="none" opacity="0.6"/>
+    <circle cx="0" cy="0" r="80" stroke="#5D5F71" stroke-width="1" fill="none" opacity="0.4"/>
+    <path d="M-90,0 L-70,0 M0,-90 L0,-70 M90,0 L70,0 M0,90 L0,70" stroke="#5D5F71" stroke-width="2" opacity="0.6"/>
+    <path d="M-60,-60 L-45,-45 M60,-60 L45,-45 M60,60 L45,45 M-60,60 L-45,45" stroke="#5D5F71" stroke-width="2" opacity="0.6"/>
+  </g>
+</svg>

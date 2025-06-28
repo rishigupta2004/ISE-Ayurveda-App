@@ -1,0 +1,62 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <circle cx="200" cy="200" r="150" fill="#F9F5F0" opacity="0.5"/>
+  
+  <!-- Decorative elements -->
+  <path d="M80,100 Q140,60 200,100 T320,100" stroke="#8E7F61" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M80,300 Q140,340 200,300 T320,300" stroke="#8E7F61" stroke-width="2" fill="none" opacity="0.6"/>
+  
+  <!-- Mind Section (Top) -->
+  <g transform="translate(200, 100)">
+    <!-- Brain/Mind symbol -->
+    <path d="M0,-30 C20,-30 30,-10 30,0 C30,15 15,30 0,30 C-15,30 -30,15 -30,0 C-30,-10 -20,-30 0,-30Z" fill="#5D5F71" opacity="0.7"/>
+    <path d="M-15,-5 C-5,-15 5,-15 15,-5 C15,5 5,15 -5,15 C-15,5 -15,-5 -15,-5Z" fill="#F9F5F0" opacity="0.8"/>
+    <text x="0" y="-40" font-family="Arial" font-size="14" text-anchor="middle" fill="#2D2D2D">Mind</text>
+  </g>
+  
+  <!-- Body Section (Left) -->
+  <g transform="translate(120, 220)">
+    <!-- Yoga pose silhouette (simplified warrior pose) -->
+    <path d="M0,0 L0,-40 L-20,-20 M0,-40 L20,-20 M-15,30 L0,0 L15,30" stroke="#E8A87C" stroke-width="3" fill="none"/>
+    <circle cx="0" cy="-50" r="10" fill="#E8A87C"/>
+    <text x="0" y="45" font-family="Arial" font-size="14" text-anchor="middle" fill="#2D2D2D">Body</text>
+  </g>
+  
+  <!-- Spirit Section (Right) -->
+  <g transform="translate(280, 220)">
+    <!-- Meditation figure -->
+    <circle cx="0" cy="-50" r="10" fill="#85A1C1"/>
+    <path d="M0,-40 L0,-20 M-20,0 C-10,-10 10,-10 20,0" stroke="#85A1C1" stroke-width="3" fill="none"/>
+    <path d="M-15,10 C-5,20 5,20 15,10" stroke="#85A1C1" stroke-width="3" fill="none"/>
+    <text x="0" y="45" font-family="Arial" font-size="14" text-anchor="middle" fill="#2D2D2D">Spirit</text>
+  </g>
+  
+  <!-- Diet/Nutrition (Center Bottom) -->
+  <g transform="translate(200, 260)">
+    <!-- Plate with food -->
+    <circle cx="0" cy="0" r="25" fill="#8E7F61" opacity="0.8"/>
+    <circle cx="0" cy="0" r="20" fill="#F9F5F0" opacity="0.9"/>
+    <!-- Food items -->
+    <path d="M-10,-5 L10,-5 L5,5 L-5,5 Z" fill="#E8A87C"/>
+    <circle cx="-8" cy="-10" r="4" fill="#85A1C1"/>
+    <circle cx="8" cy="-10" r="4" fill="#5D5F71"/>
+    <text x="0" y="40" font-family="Arial" font-size="14" text-anchor="middle" fill="#2D2D2D">Diet</text>
+  </g>
+  
+  <!-- Connecting lines forming a triangle between mind-body-spirit -->
+  <path d="M200,100 L120,220 L280,220 Z" stroke="#8E7F61" stroke-width="1" stroke-dasharray="4" fill="none" opacity="0.6"/>
+  
+  <!-- Central harmony symbol -->
+  <g transform="translate(200, 180)">
+    <circle cx="0" cy="0" r="15" fill="#F9F5F0" stroke="#8E7F61" stroke-width="2"/>
+    <path d="M0,-10 C5,-5 5,5 0,10 C-5,5 -5,-5 0,-10Z" fill="#E8A87C"/>
+    <path d="M0,-10 C-5,-5 -5,5 0,10 C5,5 5,-5 0,-10Z" fill="#85A1C1"/>
+  </g>
+  
+  <!-- Decorative elements -->
+  <g transform="translate(200, 340) scale(0.3)">
+    <circle cx="0" cy="0" r="60" stroke="#5D5F71" stroke-width="2" fill="none" opacity="0.6"/>
+    <circle cx="0" cy="0" r="80" stroke="#5D5F71" stroke-width="1" fill="none" opacity="0.4"/>
+    <path d="M-90,0 L-70,0 M0,-90 L0,-70 M90,0 L70,0 M0,90 L0,70" stroke="#5D5F71" stroke-width="2" opacity="0.6"/>
+  </g>
+</svg>

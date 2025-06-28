@@ -1,0 +1,45 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <circle cx="200" cy="200" r="150" fill="#F9F5F0" opacity="0.5"/>
+  
+  <!-- Decorative elements -->
+  <path d="M100,100 Q150,50 200,100 T300,100" stroke="#8E7F61" stroke-width="3" fill="none" opacity="0.7"/>
+  <path d="M100,300 Q150,350 200,300 T300,300" stroke="#8E7F61" stroke-width="3" fill="none" opacity="0.7"/>
+  
+  <!-- Lotus flower (Ayurvedic symbol) -->
+  <g transform="translate(200, 200) scale(0.8)">
+    <!-- Lotus petals -->
+    <path d="M0,-80 C30,-70 40,-30 0,0 C-40,-30 -30,-70 0,-80Z" fill="#E8A87C" opacity="0.9"/>
+    <path d="M0,-80 C30,-70 40,-30 0,0 C-40,-30 -30,-70 0,-80Z" fill="#E8A87C" opacity="0.9" transform="rotate(45)"/>
+    <path d="M0,-80 C30,-70 40,-30 0,0 C-40,-30 -30,-70 0,-80Z" fill="#E8A87C" opacity="0.9" transform="rotate(90)"/>
+    <path d="M0,-80 C30,-70 40,-30 0,0 C-40,-30 -30,-70 0,-80Z" fill="#E8A87C" opacity="0.9" transform="rotate(135)"/>
+    <path d="M0,-80 C30,-70 40,-30 0,0 C-40,-30 -30,-70 0,-80Z" fill="#E8A87C" opacity="0.9" transform="rotate(180)"/>
+    <path d="M0,-80 C30,-70 40,-30 0,0 C-40,-30 -30,-70 0,-80Z" fill="#E8A87C" opacity="0.9" transform="rotate(225)"/>
+    <path d="M0,-80 C30,-70 40,-30 0,0 C-40,-30 -30,-70 0,-80Z" fill="#E8A87C" opacity="0.9" transform="rotate(270)"/>
+    <path d="M0,-80 C30,-70 40,-30 0,0 C-40,-30 -30,-70 0,-80Z" fill="#E8A87C" opacity="0.9" transform="rotate(315)"/>
+    
+    <!-- Lotus center -->
+    <circle cx="0" cy="0" r="20" fill="#8E7F61"/>
+  </g>
+  
+  <!-- Ayurvedic herbs and elements -->
+  <g transform="translate(100, 280) scale(0.6)">
+    <path d="M0,0 C10,-40 20,-30 30,-50 C40,-30 50,-40 60,0" stroke="#8E7F61" stroke-width="3" fill="none"/>
+    <path d="M30,-50 C30,-30 40,-20 30,-10 C20,-20 30,-30 30,-50" fill="#8E7F61" opacity="0.8"/>
+    <ellipse cx="30" cy="-5" rx="15" ry="5" fill="#5D5F71" opacity="0.3"/>
+  </g>
+  
+  <g transform="translate(300, 280) scale(0.6)">
+    <path d="M0,0 C10,-40 20,-30 30,-50 C40,-30 50,-40 60,0" stroke="#8E7F61" stroke-width="3" fill="none"/>
+    <path d="M30,-50 C30,-30 40,-20 30,-10 C20,-20 30,-30 30,-50" fill="#8E7F61" opacity="0.8"/>
+    <ellipse cx="30" cy="-5" rx="15" ry="5" fill="#5D5F71" opacity="0.3"/>
+  </g>
+  
+  <!-- Decorative mandala pattern -->
+  <g transform="translate(200, 120) scale(0.4)">
+    <circle cx="0" cy="0" r="60" stroke="#5D5F71" stroke-width="2" fill="none" opacity="0.6"/>
+    <circle cx="0" cy="0" r="80" stroke="#5D5F71" stroke-width="1" fill="none" opacity="0.4"/>
+    <path d="M-90,0 L-70,0 M0,-90 L0,-70 M90,0 L70,0 M0,90 L0,70" stroke="#5D5F71" stroke-width="2" opacity="0.6"/>
+    <path d="M-60,-60 L-45,-45 M60,-60 L45,-45 M60,60 L45,45 M-60,60 L-45,45" stroke="#5D5F71" stroke-width="2" opacity="0.6"/>
+  </g>
+</svg>
