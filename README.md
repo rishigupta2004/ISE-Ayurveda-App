@@ -30,26 +30,14 @@ The **ISE Ayurveda App** is a powerful mobile solution aimed at delivering the *
 
 ## ✨ Key Features
 
-| Feature                  | Description                                                                 |
+| Feature                  | Description                                                         |
 |--------------------------|-----------------------------------------------------------------------------|
-| 🌿 **Herbal Explorer**   | Discover herbal properties, use-cases, and scientific support              |
-| 🩺 **Book Appointments**  | Schedule consultations with licensed Ayurvedic practitioners               |
-| 📰 **Articles & Learning**| Access a curated set of Ayurvedic health articles                          |
-| 💬 **Chatbot Assistant**  | (Optional) Ask health questions and get herb-based suggestions             |
-| 🔔 **Reminders & Tips**   | Daily health quotes and water/meditation reminders                         |
-| 🌓 **Dark Mode**          | Auto-switch UI for user comfort                                             |
-
----
-
-## 📱 App Preview
-
-> _You can replace the below placeholders with your actual app screenshots_
-
-<p align="center">
-  <img src="screenshots/home_screen.png" alt="Home Screen" width="30%"/>
-  <img src="screenshots/herb_detail.png" alt="Herb Detail" width="30%"/>
-  <img src="screenshots/booking.png" alt="Booking" width="30%"/>
-</p>
+| 🌿 **Herbal Explorer** | Discover herbal properties, use-cases, and scientific support               |
+| 🩺 **Book Appointments** | Schedule consultations with licensed Ayurvedic practitioners                |
+| 📰 **Articles & Learning**| Access a curated set of Ayurvedic health articles                             |
+| 💬 **Chatbot Assistant** | (Optional) Ask health questions and get herb-based suggestions              |
+| 🔔 **Reminders & Tips** | Daily health quotes and water/meditation reminders                          |
+| 🌓 **Dark Mode** | Auto-switch UI for user comfort                                             |
 
 ---
 
