@@ -114,8 +114,8 @@ To compile and run this project locally, please follow these steps:
 **Rishi Gupta**
 
 * B.Tech, Information Science & Engineering | Class of 2026
-* **LinkedIn**: [Connect with Rishi](https://www.linkedin.com/in/rishigupta2004)
-* **Email**: [rishi.gupta.2004.2004@gmail.com](mailto:rishi.gupta.2004.2004@gmail.com)
+* **LinkedIn**: [Connect with Rishi](https://www.linkedin.com/in/rishi-gupta-9b31841b2/)
+* **Email**: [rishi.gupta.2004.2004@gmail.com](mailto:rishigupta.rg007@gmail.com)
 
 ---
 
